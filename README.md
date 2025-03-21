@@ -1,4 +1,4 @@
-# 👋 ¡Hola! [Soy Pablo Vergara]
+# 👋 ¡Hola! Soy Pablo Vergara Llantén
 
 Soy estudiante de **quinto año de Ingeniería Civil Eléctrica** en la **Universidad de Chile** y estudiante de **magíster en Data Science**, con una especialización en **inteligencia computacional y robótica**. Mi pasión y experiencia se centran en el ámbito de la **tecnología y la innovación**.
 
