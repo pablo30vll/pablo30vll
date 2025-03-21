@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! [Soy Pablo Vergara]
 
-<!--
-**pablo30vll/pablo30vll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **quinto año de Ingeniería Civil Eléctrica** en la **Universidad de Chile** y estudiante de **magíster en Data Science**, con una especialización en **inteligencia computacional y robótica**. Mi pasión y experiencia se centran en el ámbito de la **tecnología y la innovación**.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 💡 Me interesa la inteligencia artificial, el machine learning y su aplicación en la robótica.
+- 🎓 He sido tutor en el **programa de pueblos indígenas de la FCFM**, donde he liderado equipos y trabajado con estudiantes, fortaleciendo mis habilidades en enseñanza y colaboración.
+- 🤖 Me gusta explorar nuevas tecnologías y su impacto en la sociedad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y herramientas
+- Python, R, MATLAB  
+- Machine Learning, Deep Learning  
+- Robótica, Control Inteligente  
+- Git, GitHub  
+
+### 📫 Contáctame
+- 📧 Correo: [Pablo.vergara.l@ug.uchile.cl]
+
+¡Gracias por visitar mi perfil! 🚀
